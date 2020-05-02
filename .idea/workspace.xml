@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e50c3d78-779b-4587-876a-c9847ce1711d" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="e50c3d78-779b-4587-876a-c9847ce1711d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스플래툰K[Ver.3.0].ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bluehouse_data_analyze.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bluehouse_data_analyze.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,23 +35,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="make_csv.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/make_csv.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1120">
-              <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -36,103 +42,24 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/make_csv.py" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1866" />
-    <option name="height" value="1096" />
+  <component name="ProjectId" id="1bLAu8Kgsb9Qh1zoe2mygm7G6qk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bluehouse_data_analyze" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bluehouse_data_analyze" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/analysis_csv.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_korean/.idea/python_korean.iml" />
   </component>
-  <component name="RunManager" selected="Python.make_csv">
-    <configuration default="false" name="make_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bluehouse_data_analyze" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/make_csv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bluehouse_data_analyze" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bluehouse_data_analyze" />
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,103 +79,35 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
+    <configuration name="make_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bluehouse_data_analyze" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bluehouse_data_analyze" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bluehouse_data_analyze" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bluehouse_data_analyze" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bluehouse_data_analyze" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.make_csv" />
-    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.make_csv" />
+      <list>
+        <item itemvalue="Python.make_csv" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -260,90 +119,60 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1866" height="1096" extended-state="7" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.081621625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3060389" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995943" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/make_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/make_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/make_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_korean/.idea/python_korean.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_korean/youtube_korean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/make_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1120">
-          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588401829056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588401829056" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1588402194462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588402194462" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588401826212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588401826212" />
+    <state width="1345" height="164" key="GridCell.Tab.0.bottom" timestamp="1588407635314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588407635314" />
+    <state width="1345" height="164" key="GridCell.Tab.0.center" timestamp="1588407635314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588407635314" />
+    <state width="1345" height="164" key="GridCell.Tab.0.left" timestamp="1588407635314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588407635314" />
+    <state width="1345" height="164" key="GridCell.Tab.0.right" timestamp="1588407635314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588407635314" />
+    <state x="450" y="12" width="916" height="711" key="SettingsEditor" timestamp="1588407291813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="12" width="916" height="711" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588407291813" />
+    <state x="324" y="90" width="700" height="530" key="recent.locations.popup" timestamp="1588403120577">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="324" y="90" width="700" height="530" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1588403120577" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588403459208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588403459208" />
   </component>
 </project>
